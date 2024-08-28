@@ -26,10 +26,8 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/izodam"><img src="https://avatars.githubusercontent.com/izodam" width="130px;" alt=""><br /><sub><b>김주연</b></sub></a></td>
-    <td align="center"><a href="https://github.com/ttaeram"><img src="https://avatars.githubusercontent.com/ttaeram" width="130px;" alt=""><br /><sub><b>유태람</b></sub></a></td>
     <td align="center"><a href="https://github.com/Junyoung-Park"><img src="https://avatars.githubusercontent.com/Junyoung-Park" width="130px;" alt=""><br /><sub><b>박준영</b></sub></a></td>
     <td align="center"><a href="https://github.com/mkkim68"><img src="https://avatars.githubusercontent.com/mkkim68" width="130px;" alt=""><br /><sub><b>김민경</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kyuahkim"><img src="https://avatars.githubusercontent.com/kyuahkim" width="130px;" alt=""><br /><sub><b>최병주</b></sub></a></td>
   </tr>
 </table>
 
